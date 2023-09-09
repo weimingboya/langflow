@@ -12,7 +12,7 @@ on:
 # 设置全局可访问的环境变量
 env:
   # 推送的容器注册表地址
-  AZURE_CR: museland.azurecr.io
+  AZURE_CR: synrai.azurecr.io
   # 必须修改的镜像名称
   IMAGE_NAME: langflow
   # 这是群里 HappyCat 的通知URL，你可自行替换自己生成的机器人URL
